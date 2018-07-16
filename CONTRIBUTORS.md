@@ -1241,4 +1241,4 @@
 - -[@trevjnels](https://github.com/trevjnels)
 -[@DrGreenStar](https://github.com/DrGreenStar)
 
--[@thomasnorwood] (https://github.com/thomasnorwood)
+-[@thomasnorwood](https://github.com/thomasnorwood)
